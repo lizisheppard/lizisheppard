@@ -1,6 +1,6 @@
 # lizisheppard
 
-*5/27/2020- will be updated with complete file names soon*
+*not all inclusive
 
 UTICA MS Data Science Projects: 
 
@@ -14,11 +14,13 @@ Final Paper Soc 555 = SOC 555 (Community and Social Change)
 
 Final Paper - Comprehensive Plan for Clay County, FL (includes Tableau visualizations for census tract by Lizi Sheppard)
 
+Final Presentation Project - DSC 611 Powerpoint containing the visualizations I made for the course
+
 Final Submission = Thesis/capstone project paper submitted May 2020 to Utica College.
 
 Literature Review = SOC 565 (Demography) Final Paper - Literature Review, Maternal Education and Child Mortality
 
-Project_Paper = DSC 611 (Data Visualization) *to be updated*
+Project_Paper = DSC 611 (Data Visualization) 
 
 Prospectus = SOC 563 (Complex Organizations) Survey Prospectus (Final Project)
 
