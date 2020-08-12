@@ -18,7 +18,7 @@ Final Presentation Project - DSC 611 Powerpoint containing the visualizations I 
 
 Final Project = DSC 609 (Machine Learning) Final project using machine learning techniques 
 
-****Final Submission = Thesis/capstone project paper submitted May 2020 to Utica College.
+Final Submission = Thesis/capstone project paper submitted May 2020 to Utica College. ****
 
 Literature Review = SOC 565 (Demography) Final Paper - Literature Review, Maternal Education and Child Mortality
 
